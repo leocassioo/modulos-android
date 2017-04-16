@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/732d4dbf4c3a28e681700f606124c52fac6ff43e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c22751bfad77b8bd4bbaf67acf9d447a44112f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/8cb8e060930f9464bc80a11face0c1d4eeebc9c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_e4898f24eda658fe8601541711797a3bf65bec00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/732d4dbf4c3a28e681700f606124c52fac6ff43e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_ee8d4f4ad79b438000e994707c1b2317263b665b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/Projects/Hinova/meumodulo/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f50ede3699f03ab2dc83e6da35b26c6d04d5ab1">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_67701c0f9372b01563cc1a4ace42d2b5e84f86e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/5e82c47bf3c6971de8cade856c9d6699ad5abfa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_bde7f8dc865655e8c1fbecd4bd8c09d3f67a1fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_1a1ddf9b26400fb0580d963249d127e6b56af325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/da3b5c2cd0af67a2ea55cbd74a98e95690e8c335/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_250266cfb774e0a0c2e01c478ad84d902bb3fd78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/7364a279a1b2c2bc3eb731c57c43c04f0d950155/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_b9f5e7754a0abc05159964bdcb65ec1222724756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/cebf57eefa0a34ed1f63ecab9e4e0c1ebc53edd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_1139359848d667b98a2f40e919aaa24cbd83f26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/7364a279a1b2c2bc3eb731c57c43c04f0d950155/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8e5ff6860a82948c87bcffbd48d165c0ecf65586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/001afd22682e6e7146642d88e88a1b3d420678ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_aadd8c622d553e519a6ef77c2d78d4303ecf658d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/11252bd6b463d221a1f5551a79762ca1116ccfa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_078072dfb48bffdb36972857a40ffc759b765804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/da3b5c2cd0af67a2ea55cbd74a98e95690e8c335/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eb877fffdbc5658cbad541a61d021d8f519fb1cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/5810e3dfb6aae45a23ac7d6f498f8128aa90b121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/classes_50916b0b1b2f534bd394aa5e46c8ece5d67699ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/11252bd6b463d221a1f5551a79762ca1116ccfa4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e3d0881cbd432fa86a68aea56bd1d30421f6ad19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leocassioo/.android/build-cache/5e82c47bf3c6971de8cade856c9d6699ad5abfa2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/leocassioo/Projects/Hinova/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5d4ce33ecf857bb71bcb39e7a1e8a016a851dd2e.jar" />
+    </item>
+
+</items>
